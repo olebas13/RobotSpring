@@ -1,0 +1,12 @@
+com\olebas\spring\impls\sony\SonyHand.class
+com\olebas\spring\interfaces\Leg.class
+com\olebas\spring\main\Start.class
+com\olebas\spring\interfaces\Hand.class
+com\olebas\spring\impls\sony\SonyLeg.class
+com\olebas\spring\impls\toshiba\ToshibaHand.class
+com\olebas\spring\impls\toshiba\ToshibaLeg.class
+com\olebas\spring\interfaces\Robot.class
+com\olebas\spring\interfaces\Head.class
+com\olebas\spring\impls\sony\SonyHead.class
+com\olebas\spring\impls\toshiba\ToshibaHead.class
+com\olebas\spring\impls\robot\ModelT1000.class
